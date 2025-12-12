@@ -82,7 +82,3 @@ Esto permite identificar rápidamente dónde falló un proceso.
 - Cada flujo puede **activarse o desactivarse** desde su menú.  
 - Útil para pausar automatizaciones mientras se realizan pruebas o cambios.  
 - Al desactivarlo, no se ejecutará ni aunque se dispare el evento.
-
-
-- **Respuestas de formulario** (preguntas y valores enviados)  
-```
