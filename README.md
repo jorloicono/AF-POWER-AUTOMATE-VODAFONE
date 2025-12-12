@@ -1,6 +1,3 @@
-# AF-POWER-AUTOMATE-VODAFONE
-
-```markdown
 # Introducción a Power Automate y NoCode
 
 ## Relación con Microsoft 365
